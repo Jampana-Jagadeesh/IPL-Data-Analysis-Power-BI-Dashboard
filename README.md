@@ -1,5 +1,5 @@
 # IPL Data Analysis Power BI Dashboard 
-[VIEW DASHBOARD](https://app.powerbi.com/groups/me/reports/4358b6f7-93a6-43ed-b545-499e7d1de995/ReportSection?experience=power-bi)🎯
+[VIEW DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYTI3NjlkZGQtMWZhMi00YWI2LTkxOGMtMTIwMzU4NDY2OWZmIiwidCI6IjY5ZGJjNDU0LTgwZmEtNDgyZS1iODUxLTdjYTczOWFmYWVjYSJ9)🎯
 1. Requirement Gathering
 2. Stakeholders in project
 3. Import Data in MS SQL server
@@ -55,4 +55,7 @@ Develop a IPL Dashboard for season 2008 to 2022 to have a detailed insight on be
 11. Export report
 
 ## Output
-[DASHBOARD](https://app.powerbi.com/groups/me/reports/4358b6f7-93a6-43ed-b545-499e7d1de995/ReportSection?experience=power-bi)
+[Power BI DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiYTI3NjlkZGQtMWZhMi00YWI2LTkxOGMtMTIwMzU4NDY2OWZmIiwidCI6IjY5ZGJjNDU0LTgwZmEtNDgyZS1iODUxLTdjYTczOWFmYWVjYSJ9)
+
+
+![Ipl GifGIF (2)](https://github.com/Jacas6004/-IPL-Data-Analysis-Power-BI-Dashboard/assets/152630258/ccb0496e-0bbc-4e33-94e7-ed29af3316cc)
